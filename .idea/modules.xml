@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spectrum.iml" filepath="$PROJECT_DIR$/.idea/modules/spectrum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spectrum_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spectrum_main.iml" group="spectrum" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spectrum_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spectrum_test.iml" group="spectrum" />
+    </modules>
+  </component>
+</project>
