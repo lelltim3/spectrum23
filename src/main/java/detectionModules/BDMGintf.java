@@ -5,7 +5,7 @@ public class BDMGintf extends DBintf {
 
     @Override
     protected void onNewBD(int serialNumber) {
-        System.out.println("New BD!");
+        System.out.println("New BD!!!!!");
         setLogicalNumber(serialNumber, (byte)5);
     }
 
